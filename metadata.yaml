@@ -1,0 +1,28 @@
+_repo: The-Pilgrims-of-Hope-and-Chants-for-Socialists_3262
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Socialism -- Poetry'
+tableOfContents: The Message of the March Wind -- The Bridge and the Street -- Sending
+  to the War -- Mother and Son -- New Birth -- The New Proletarian -- In Prison -
+  and at Home -- The Half of Life Gone -- A New Friend -- Ready to Depart -- A Glimpse
+  of the Coming Day -- Meeting The War-Machine -- The Story's Ending.
+title: The Pilgrims of Hope and Chants for Socialists
+url: http://www.gutenberg.org/ebooks/3262
