@@ -1,5 +1,5 @@
 _repo: The-Pilgrims-of-Hope-and-Chants-for-Socialists_3262
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 3262-h/images/coverb.jpg
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Socialism -- Poetry'
+- GITenberg
 tableOfContents: The Message of the March Wind -- The Bridge and the Street -- Sending
   to the War -- Mother and Son -- New Birth -- The New Proletarian -- In Prison -
   and at Home -- The Half of Life Gone -- A New Friend -- Ready to Depart -- A Glimpse
